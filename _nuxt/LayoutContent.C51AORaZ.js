@@ -1,0 +1,1 @@
+import o from"./Breadcrumbs.CA8OfRio.js";import{D as e,o as n,a as _,b as a,a3 as s,_ as r}from"./entry.kNh3a2ls.js";const c={class:"rvt-layout__content rvt-c-top-padding rvt-p-bottom-none"},p=e({__name:"LayoutContent",setup(d){return(t,m)=>(n(),_("div",c,[a(o),s(t.$slots,"default",{},void 0,!0)]))}}),i=r(p,[["__scopeId","data-v-438e44b2"]]);export{i as default};

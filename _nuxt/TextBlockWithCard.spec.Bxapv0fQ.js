@@ -1,0 +1,1 @@
+import{m as n}from"./vue-test-utils.esm-bundler.uucRiquD.js";import r from"./TextBlockWithCard.CmrCqSFP.js";import"./entry.kNh3a2ls.js";describe("TextBlockWithCard",()=>{it("renders the slots correctly",()=>{const t="Example Actions",o="Example Content",e=n(r,{slots:{card:t,content:o}});expect(e.text()).toContain(t),expect(e.text()).toContain(o)})});

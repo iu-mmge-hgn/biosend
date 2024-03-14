@@ -1,0 +1,1 @@
+import{D as o,o as s,m as r,f as n,h as p,y as l,bg as c,a_ as i,bu as m}from"./entry.kNh3a2ls.js";const d=o({__name:"Heading",props:{text:{type:String,default:""},level:{type:null,default:1}},setup(t){const e=t;return(a,u)=>(s(),r(m("h"+e.level),c(i(a.$attrs)),{default:n(()=>[p(l(e.text),1)]),_:1},16))}});export{d as _};

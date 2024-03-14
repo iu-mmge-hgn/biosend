@@ -1,0 +1,1 @@
+import{D as n,M as o,o as r,a as c,a3 as l,x as i}from"./entry.kNh3a2ls.js";const u=n({__name:"Container",props:{size:{type:String,default:""}},setup(e){const s=e,a=o(()=>[`rvt-container-${s.size}`]);return(t,p)=>(r(),c("div",{class:i(a.value)},[l(t.$slots,"default")],2))}});export{u as _};

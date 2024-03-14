@@ -1,0 +1,1 @@
+import{_ as t,o as s,a as r,d as a,a3 as c}from"./entry.kNh3a2ls.js";const o={},l={class:"rvt-flex rvt-items-center"},n={class:"rvt-p-all-lg rvt-bg-black-000"};function d(e,_){return s(),r("div",l,[a("div",n,[c(e.$slots,"default")])])}const i=t(o,[["render",d]]);export{i as default};

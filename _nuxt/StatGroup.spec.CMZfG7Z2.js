@@ -1,0 +1,1 @@
+import{m as e}from"./vue-test-utils.esm-bundler.uucRiquD.js";import r from"./StatGroup.BjeVrZlB.js";import"./entry.kNh3a2ls.js";describe("StatGroup.vue",()=>{test("renders slot correctly",()=>{const t="Test Slot Content",o=e(r,{slots:{default:t}});expect(o.text()).toContain(t)})});

@@ -1,0 +1,1 @@
+import{_ as e,o,a as r,d as t,a3 as a}from"./entry.kNh3a2ls.js";const c={},n={class:"rvt-border-bo rvt-p-tb-xxl-md-up"},d={class:"rvt-container-lg"},_={class:"rvt-stat-group"};function l(s,i){return o(),r("div",n,[t("div",d,[t("div",_,[a(s.$slots,"default")])])])}const f=e(c,[["render",l]]);export{f as default};

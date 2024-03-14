@@ -1,0 +1,1 @@
+import{_ as o,o as t,a as n,a3 as r}from"./entry.kNh3a2ls.js";const s={},a={class:"rvt-row rvt-m-all-none"};function c(e,_){return t(),n("div",a,[r(e.$slots,"default")])}const d=o(s,[["render",c]]);export{d as default};
